@@ -1,10 +1,10 @@
-#Bilinmesi gerekenler:
-Ödev, C++ dili ile Code::Blocks 17.12 kullanarak yazılmıştır ve ödev açıklamasında istenildiği gibi html dosyası içerisinde yüklenmiştir.
-Gerekli referanslar kod içerisinde verilmiş olup, programda kullanıldığı yerler, "(kaynak: *kaynak numarası)" şeklinde belirtilmiştir.
-Girdiler "input.txt" isimli bir dosyadan olmalıdır ve çıktılar "output.txt" isimli bir dosyaya yazdırılacaktır.
-Açıklamada istenildiği üzere öürenci ismi ve numarası kod başı ve sonunda belirtilmiştir.
+# Bilinmesi gerekenler:
+* Ödev, **C++** dili ile Code::Blocks 17.12 kullanarak yazılmıştır ve **ödev açıklamasında istenildiği gibi html dosyası içerisinde yüklenmiştir.**
+* Gerekli referanslar kod içerisinde verilmiş olup, programda kullanıldığı yerler, "(kaynak: *_kaynak numarası_)" şeklinde belirtilmiştir.
+* Girdiler "**input.txt**" isimli bir dosyadan olmalıdır ve çıktılar "**output.txt**" isimli bir dosyaya yazdırılacaktır.
+* Açıklamada istenildiği üzere öğrenci ismi ve numarası kod başı ve sonunda belirtilmiştir.
 
-#Ödev3(Son Teslim Tarihi:02.01.2020)
+## Ödev3(Son Teslim Tarihi:02.01.2020)
 Bu ödevde belirli bir cevap anahtarına göre bir sınıfın test sınavının cevaplarını otomatik olarak değerlendiren bir program yazmanız istenmektedir. Kodlamayı sadece C++ veya JavaScript dillerinden biriyle yapmanız beklenmektedir. Programınız girdi ve çıktı işlemlerini metin dosyaları üzerinden gerçekleştirecektir. 
 Programınız alacağı girdi dosyasının ilk satırında sınavdaki toplam soru sayısı olacaktır. İkinci satırında ise sınavın cevap anahtarı bulunacaktır. Buradan sonraki satırlar ise her bir öğrencinin cevaplarını temsil edecektir. Satırın başındaki ilk değer, cevabı okunan öğrencinin numarası olacaktır. Sonrasında ise satır sonuna kadar öğrencinin cevapları olacaktır. Öğrenci boş cevap da vermiş olabilir. Örnek bir girdiyi aşağıda görebilirsiniz:
 
