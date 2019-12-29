@@ -1,5 +1,5 @@
 # Bilinmesi gerekenler:
-* Ödev, **C++** dili ile Code::Blocks 17.12 kullanarak yazılmıştır ve **ödev açıklamasında istenildiği gibi html dosyası içerisinde yüklenmiştir.**
+* Ödev, **C++** dili ile Code::Blocks 17.12 kullanarak yazılmıştır ve **ödev açıklamasında istenildiği gibi html dosyası içerisinde yüklenmiştir.** Her ihtimale karşı ".cpp" dosyası da eklenmiştir.
 ![ödev açıklaması](https://github.com/DokuzEylulCsc/odev-3-eyubsalihozdemir2018280059/blob/master/odevAciklamasi.png?raw=true)
 * Gerekli referanslar kod içerisinde verilmiş olup, programda kullanıldığı yerler, "(kaynak: *_kaynak numarası_)" şeklinde belirtilmiştir.
 * Girdiler "**input.txt**" isimli bir dosyadan olmalıdır ve çıktılar "**output.txt**" isimli bir dosyaya yazdırılacaktır.
