@@ -1,5 +1,6 @@
 # Bilinmesi gerekenler:
 * Ödev, **C++** dili ile Code::Blocks 17.12 kullanarak yazılmıştır ve **ödev açıklamasında istenildiği gibi html dosyası içerisinde yüklenmiştir.**
+![ödev açıklaması](https://github.com/DokuzEylulCsc/odev-3-eyubsalihozdemir2018280059/blob/master/odevAciklamasi.png?raw=true)
 * Gerekli referanslar kod içerisinde verilmiş olup, programda kullanıldığı yerler, "(kaynak: *_kaynak numarası_)" şeklinde belirtilmiştir.
 * Girdiler "**input.txt**" isimli bir dosyadan olmalıdır ve çıktılar "**output.txt**" isimli bir dosyaya yazdırılacaktır.
 * Açıklamada istenildiği üzere öğrenci ismi ve numarası kod başı ve sonunda belirtilmiştir.
@@ -35,6 +36,7 @@ N00000002,31
 NA0000027,27
 N00000035,22
 32,22,28,29,10
+
 
 Hatırlatma: C++ veya JavaScript dilleri dışında yapılan ödevler değerlendirilmeye alınmayacaktır.
 
